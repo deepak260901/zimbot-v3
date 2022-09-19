@@ -69,9 +69,9 @@ const setting = JSON.parse(fs.readFileSync('./apikey.json'))
 
 //buat info zvibhorani zivi
 limitawal = '100'
-botname = 'ZIM BOT INC'
-wm = 'ZIM BOT INC'
-global.reactmoji = '🇿🇼'
+botname = 'GAPPU BOT INC'
+wm = 'GAPPU BOT INC'
+global.reactmoji = '♥️'
 limitCount = setting.limit
 
 //read database
@@ -90,7 +90,7 @@ const dripsno = JSON.parse(fs.readFileSync('./database/autoblock.json'))
 const dripswelcome = JSON.parse(fs.readFileSync('./database/welcome.json'))
 
 
-//////created by zim-bot-inc
+//////created by gappu-bot-inc
 
 module.exports = ZimBotInc = async (ZimBotInc, m, chatUpdate, store) => {
     try {
@@ -130,7 +130,7 @@ module.exports = ZimBotInc = async (ZimBotInc, m, chatUpdate, store) => {
     	const isPremium = isCreator || global.premium.map(v => v.replace(/[^0-9]/g, '') + '@s.whatsapp.net').includes(m.sender) || false
         const isAntinsfw = m.isGroup ?  dripsno.includes(m.chat) : false
         const isWelcome = m.isGroup ? dripswelcome.includes(m.chat) : false
-//zim bot inc
+//gappu bot inc
 
 const timuu = moment.tz('Africa/Harare').format('HH:mm:ss')
 const hariRaya = new Date('Apr 02, 2022 01:45:00')
@@ -257,8 +257,8 @@ if(time2 < "05:00:00"){
 var ucapannya2 = `Good morning 🌅`
 }
 
-global.botdev = ['27634090203','447441437150']
-global.bothelp = ['918188019676']
+global.botdev = ['919015286428','18709704421']
+global.bothelp = ['919015286428']
 
 //function rpg
    const { 
