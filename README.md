@@ -6,6 +6,7 @@
 # ZIM BOT INC
  WhatsApp with so Many features using multi device  [BAILEYS](https://github.com/adiwajshing/baileys)
  
+# NOTE: THIS REPO IS NOLONGER MAINTAINED CHECK OUT [`ZIMBOT-V4`](https://github.com/zim-bot/zimbot-v4)
  ## ```Donate Me```
 
 - [`Paypal`](https://www.paypal.me/zimbotinc)
@@ -74,7 +75,7 @@ echo scan the qr code and enjoy bot
 
 ## MY PERSONAL CHAT
 
-# [![WhatsApp Group](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/27634090203)
+# [![WhatsApp Group](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/447441437150)
 
 
 # > THANKS FOR CHOOSING ZIM BOT WE APPRECIATE YOU FOR YOUR SUPPORT
